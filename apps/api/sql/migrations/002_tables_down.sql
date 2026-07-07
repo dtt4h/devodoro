@@ -1,0 +1,2 @@
+DROP TABLE EXISTS users;
+DROP TABLE EXISTS tasks;
